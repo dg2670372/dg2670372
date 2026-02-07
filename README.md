@@ -1,3 +1,10 @@
+# 💫 Hi 👋, I'm Deepak Gupta
+**A passionate Full Stack Developer**
+
+Email Me 👉 ✉️ **dg2670372@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+- 💬 **Ask me about:** Collaboration
+- 📫 **How to reach me:** dg2670372@gmail.com
+- 😄 **Pronouns:** Deepak
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/deepak_gupta_2709) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/deepak-gupta-8023ab309) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@DeepakG47517305) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dg2670372@gmail.com) 
